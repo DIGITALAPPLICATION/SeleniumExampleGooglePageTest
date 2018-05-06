@@ -7,16 +7,18 @@
 			<class name="com.test.GoogleTitleTest"/>
 		</classes>
 	</test>
-<!-- 	<test name="Grid IE Test">
+	<!--
+	<test name="Grid IE Test">
 		<parameter name="browser" value="IE"/>
 		<classes>
 			<class name="com.test.GoogleTitleTest"/>
 		</classes>
-	</test> -->
+	</test>
 	<test name="Grid firefox Test">
 		<parameter name="browser" value="firefox"/>
 		<classes>
 			<class name="com.test.GoogleTitleTest"/>
 		</classes>
 	</test>
+ 	-->
 </suite>
